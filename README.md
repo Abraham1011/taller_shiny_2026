@@ -1,1 +1,3 @@
-# taller_shiny_2026
+# Acerca de este archivo
+
+Este conjunto de datos contiene 2.000 filas de datos de cafeterías, ofreciendo información detallada sobre factores que influyen en los ingresos diarios. Incluye variables operativas y ambientales clave que ofrecen una visión completa de cómo las actividades empresariales y las condiciones externas afectan al rendimiento de ventas. Diseñado para su uso en análisis predictivo y optimización empresarial, este conjunto de datos es un recurso valioso para cualquiera que quiera comprender la relación entre el comportamiento del cliente, las decisiones operativas y la generación de ingresos en la industria alimentaria y de bebidas.
